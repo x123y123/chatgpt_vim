@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/tonyliu/Desktop/project/esp32c3/ultrasonic_sensor/US-015'
+let g:netrw_dirhist_3='/Users/tonyliu/Desktop/project/mango_drone/image'
+let g:netrw_dirhist_2='/Users/tonyliu/Desktop/mydev_setting/macOS'
+let g:netrw_dirhist_1='/Users/tonyliu/Desktop/qlearning_c_chatGPT'
+let g:netrw_dirhist_0='/Users/tonyliu/Desktop/bookshef_example/Understanding_and_Using_C_Pointers'
+let g:netrw_dirhist_9='/'
+let g:netrw_dirhist_8='/Users'
+let g:netrw_dirhist_7='/Users/tonyliu'
+let g:netrw_dirhist_6='/Users/tonyliu/Desktop'
+let g:netrw_dirhist_5='/Users/tonyliu/Desktop/cube.c'
